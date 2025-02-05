@@ -8,3 +8,7 @@ class A:
         return self.__attr
     def test2(self):
         return self.__test()
+
+# каие методы можно вызвать у B    
+class B(A):
+    ...
