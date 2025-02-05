@@ -7,4 +7,7 @@ def foo(def_li=[]):
 foo()
 
 # и тут
+foo(["sobes"])
+
+# и тут
 foo()
